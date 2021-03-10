@@ -4,7 +4,7 @@
 
 *Me gusta la pizza con ananá 🍕 + 🍍*
 
-![Foto Perfil](Foto_Perfil_Paola_Toledo.jpeg)
+<img src="Foto_Perfil_Paola_Toledo.jpeg" height="250">
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
